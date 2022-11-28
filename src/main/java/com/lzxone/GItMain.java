@@ -9,5 +9,6 @@ public class GItMain {
         System.out.println("在远程的修改代码");
         System.out.println("客户端修改的代码!!!");
         System.out.println("在github上修改的代码!!!");
+        System.out.println("在localhost上修改的代码");
     }
 }
