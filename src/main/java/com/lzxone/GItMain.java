@@ -5,5 +5,6 @@ public class GItMain {
         System.out.println("1th");
         System.out.println("2th");
         System.out.println("3th");
+        System.out.println("2th");
     }
 }
